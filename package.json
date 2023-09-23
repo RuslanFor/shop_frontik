@@ -33,5 +33,6 @@
     "sass": "^1.67.0",
     "slick-carousel": "^1.8.1",
     "typescript": "5.2.2"
-  }
+  },
+  "cacheDirectories": [".node_modules/", ".next/cache/"]
 }
